@@ -1,0 +1,1 @@
+**Just a standart scripts**
